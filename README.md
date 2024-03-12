@@ -664,6 +664,7 @@ Name | Website | Region
 [Skillshare](/company-profiles/skillshare.md) | https://www.skillshare.com/teach | Worldwide
 [Skyrocket Ventures](/company-profiles/skyrocket-ventures.md) | https://www.skyrocketventures.com/ | Worldwide
 [SmartCash](/company-profiles/smartcash.md) | https://www.smartcash.cc/ | Worldwide
+[Smartway2] (/company-profiles/smartway2.md)| https://smartway2.com | Worldwide
 [Smile.io](/company-profiles/smile.md) | https://smile.io | Worldwide
 [Smmile Digital](/company-profiles/smmile-digital.md) | https://smmile.com | Singapore
 [SmugMug](/company-profiles/smugmug.md) | https://www.smugmug.com/ | Worldwide
